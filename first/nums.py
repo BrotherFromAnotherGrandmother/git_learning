@@ -1,7 +1,7 @@
 def plus(a, b):
     return(a+b)
 
-text = 'А я думал сова'
+text = 'Ветка сакуры в руке, а я думал сова'
 def minus(a, b):
     return(a-b)
 
